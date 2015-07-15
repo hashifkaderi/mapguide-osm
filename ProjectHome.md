@@ -1,0 +1,1 @@
+Author a sample package (MGP) for MapGuide based off [datasets](http://wiki.openstreetmap.org/wiki/Main_PageOSM)
